@@ -69,4 +69,3 @@ def update(frame):
 ani = FuncAnimation(fig, update, frames=1000, interval=30)
 plt.tight_layout()
 plt.show()
-dir
